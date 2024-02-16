@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NIeCxKIn+910QlLNEtQQ2vGRV1OpNsQmP6ntM64X1Ic=",
+  "Source": "ServiceSphere.APIs",
+  "BasePath": "_content/ServiceSphere.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

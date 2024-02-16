@@ -1,0 +1,122 @@
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.sourcelink.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.sourcelink.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.deps.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.AssemblyReference.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfoInputs.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.AssemblyInfo.cs
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CoreCompileInputs.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.csproj.CopyComplete
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\refint\ServiceSphere.repositery.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.repositery\obj\Debug\net6.0\ref\ServiceSphere.repositery.dll

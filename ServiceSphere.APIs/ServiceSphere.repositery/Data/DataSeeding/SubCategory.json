@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "Civil Engineers",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Mechanical Engineers",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Electrical Engineers",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Architects",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Interior Designers",
+    "CategoryId": 1
+  },
+  {
+    "Name": "General Contractors",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Carpenters",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Plumbers",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Electricians",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Painters",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Event Planners",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Caterers",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Decorators",
+    "CategoryId": 2
+  },
+  {
+    "Name": "DJs/Musicians",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Photographers/Videographers",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Lessons",
+    "CategoryId": 3
+  }
+]

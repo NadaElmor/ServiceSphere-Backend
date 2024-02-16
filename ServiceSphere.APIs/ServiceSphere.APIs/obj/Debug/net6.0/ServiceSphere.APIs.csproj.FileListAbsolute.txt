@@ -1,0 +1,654 @@
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DeS\Desktop\pp\2\ServiceShereGP\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphereBackend\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\ServiceSphere.APIs\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.sourcelink.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation project\AspProject\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.sourcelink.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+D:\Graduation project\SS\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+D:\Graduation project\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\appsettings.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.exe
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.deps.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.runtimeconfig.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.services.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\bin\Debug\net6.0\ServiceSphere.core.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.AssemblyReference.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfoInputs.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.AssemblyInfo.cs
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CoreCompileInputs.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.ServiceSphere.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiceSphere.APIs.props
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSphere.APIs.props
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiceSphere.APIs.props
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\scopedcss\bundle\ServiceSphere.APIs.styles.css
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.csproj.CopyComplete
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\refint\ServiceSphere.APIs.dll
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.pdb
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ServiceSphere.APIs.genruntimeconfig.cache
+D:\Graduation project\n\ServiceSphere.APIs\ServiceSphere.APIs\obj\Debug\net6.0\ref\ServiceSphere.APIs.dll
